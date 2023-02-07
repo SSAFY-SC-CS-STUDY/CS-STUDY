@@ -7,7 +7,7 @@
   <img src="https://github.com/SeungJun.png" width="100">
 </a>
 <a href="https://github.com/jinsikghong">
-  <img src="https://github.com/jinsikghong.png" width="100">
+  <img src="https://github.com/jinsikhong.png" width="100">
 </a>
 <a href="https://github.com/yoojinjangjang">
   <img src="https://github.com/yoojinjangjang.png" width="100">
