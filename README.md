@@ -12,8 +12,8 @@
 <a href="https://github.com/yoojinjangjang">
   <img src="https://github.com/yoojinjangjang.png" width="100">
 </a>
-<a href="https://github.com/glon_J">
-  <img src="https://github.com/glon_J.png" width="100">
+<a href="https://github.com/ycjeon0129">
+  <img src="https://github.com/ycjeon0129.png" width="100">
 </a>
 </p>
 
