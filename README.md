@@ -15,6 +15,9 @@
 <a href="https://github.com/ycjeon0129">
   <img src="https://github.com/ycjeon0129.png" width="100">
 </a>
+<a href="https://github.com/1212Hong">
+  <img src="https://github.com/1212Hong.png" width="100">
+</a>
 </p>
 
 ## About
