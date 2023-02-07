@@ -1,22 +1,19 @@
 # Study for Computer Science Technical Interview
-> Since 2022.11.16
+> Since 2023.02.8
 
 ### Collaborator
 <p>
-<a href="https://github.com/ng-lee">
-  <img src="https://github.com/ng-lee.png" width="100">
-</a>
-<a href="https://github.com/choigwanho">
-  <img src="https://github.com/choigwanho.png" width="100">
-</a>
-<a href="https://github.com/">
-  <img src="https://github.com/seoyoon130.png" width="100">
-</a>
 <a href="https://github.com/SeungJun">
   <img src="https://github.com/SeungJun.png" width="100">
 </a>
-<a href="https://github.com/">
-  <img src="https://github.com/mango51.png" width="100">
+<a href="https://github.com/jinsikghong">
+  <img src="https://github.com/jinsikghong.png" width="100">
+</a>
+<a href="https://github.com/yoojinjangjang">
+  <img src="https://github.com/yoojinjangjang.png" width="100">
+</a>
+<a href="https://github.com/glon_J">
+  <img src="https://github.com/glon_J.png" width="100">
 </a>
 </p>
 
@@ -32,12 +29,12 @@
 ||멀티 스레드||[링크]()|
 ||스케줄러||[링크]()|
 ||CPU 스케줄러||[링크]()|
-|12월 1주차|동기, 비동기와 IPC||[링크](
+||동기, 비동기와 IPC||[링크](
 ||메모리 관리 전략||[링크]()|
 ||가상 메모리||[링크](/)|
 ||캐시와 지역성||[링크]()|
-|12월 2주차|운영체제 정리||[링크]()|
-|12월 3주차|운영체제 총 정리||[링크]()|
+||운영체제 정리||[링크]()|
+||운영체제 총 정리||[링크]()|
 ||운영체제 총 정리||[링크]()|
 ||운영체제 총 정리||[링크]()|
 ||운영체제 총 정리||[링크]()|
@@ -45,11 +42,11 @@
 ## Network (네트워크) [🔝](#about)
 |주차|주제|이름|링크|
 |------|---|-----|------|
-|12월 2주차|OSI 7 Layer||[링크]()|
+||OSI 7 Layer||[링크]()|
 ||TCP/UDP, TCP/IP 흐름제어 & 혼잡제어, UDP||[링크]()|
 ||HTTP & HTTPS ||[링크]()|
 ||Load Balancing + Blocking ||[링크]()|
-|1월 1주차|네트워크 총 정리||[링크]()|
+||네트워크 총 정리||[링크]()|
 ||네트워크 총 정리||[링크]()|
 ||네트워크 총 정리||[링크]()|
 ||네트워크 총 정리||[링크]()|
