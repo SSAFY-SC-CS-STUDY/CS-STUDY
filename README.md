@@ -35,7 +35,7 @@
 |------|---|-----|------|
 |1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|승준|[링크](https://velog.io/@seungjun/운영체제-시스템-콜System-call)|
 |1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|전윤철|[링크](https://winter-date-200.notion.site/OS-Week-1-6abdd6e0c5c34eb39b59c78ca6197809)|
-|1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘||[링크]()|
+|1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|홍진식|[링크](https://proud-crocus-4b7.notion.site/1-OS-7795a2f6def0495fb5a59db182043dd0)|
 |1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘||[링크]()|
 |1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|김대홍|[링크](https://shimmer-walk-afb.notion.site/ae81a5bafa694d38ab1310da2da4405f?v=cf4399ae956f48c586f295735567ffa0)|
 
