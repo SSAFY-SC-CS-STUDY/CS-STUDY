@@ -38,6 +38,12 @@
 |1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|홍진식|[링크](https://proud-crocus-4b7.notion.site/1-OS-7795a2f6def0495fb5a59db182043dd0)|
 |1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|장유진|[링크](https://www.notion.so/CS-f7e30cf5a18149f1823a5c57ef99cb2e)|
 |1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|김대홍|[링크](https://shimmer-walk-afb.notion.site/ae81a5bafa694d38ab1310da2da4405f?v=cf4399ae956f48c586f295735567ffa0)|
+|1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|승준|[링크](https://velog.io/@seungjun/운영체제-시스템-콜System-call)|
+|1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|승준|[링크](https://velog.io/@seungjun/운영체제-시스템-콜System-call)|
+|1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|승준|[링크](https://velog.io/@seungjun/운영체제-시스템-콜System-call)|
+|1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|승준|[링크](https://velog.io/@seungjun/운영체제-시스템-콜System-call)|
+|1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|승준|[링크](https://velog.io/@seungjun/운영체제-시스템-콜System-call)|
+|1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|승준|[링크](https://velog.io/@seungjun/운영체제-시스템-콜System-call)|
 
 ## Network (네트워크) [🔝](#about)
 |주차|주제|이름|링크|
