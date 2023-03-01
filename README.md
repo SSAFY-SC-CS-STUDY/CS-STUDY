@@ -39,7 +39,7 @@
 |1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|장유진|[링크](https://www.notion.so/CS-f7e30cf5a18149f1823a5c57ef99cb2e)|
 |1|시스템 콜 ~ 프로세스 스케쥴링 알고리즘|김대홍|[링크](https://shimmer-walk-afb.notion.site/ae81a5bafa694d38ab1310da2da4405f?v=cf4399ae956f48c586f295735567ffa0)|
 |2|뮤텍스와 세마포어의 차이점 ~ Thread Safe |홍승준|[링크](https://velog.io/@seungjun/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-Deadlock)|
-|2|뮤텍스와 세마포어의 차이점 ~ Thread Safe |전윤철|[링크]()|
+|2|뮤텍스와 세마포어의 차이점 ~ Thread Safe |전윤철|[링크](https://winter-date-200.notion.site/OS-Week-2-871b9e784a2a4969afafa6fa1bdfee67)|
 |2|뮤텍스와 세마포어의 차이점 ~ Thread Safe |홍진식|[링크]()|
 |2|뮤텍스와 세마포어의 차이점 ~ Thread Safe |장유진|[링크]()|
 |2|뮤텍스와 세마포어의 차이점 ~ Thread Safe |김대홍|[링크]()|
