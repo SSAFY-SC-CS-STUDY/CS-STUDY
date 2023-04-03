@@ -49,6 +49,23 @@
 |3|캐시 메모리 및 메모리 계층성 ~ 세그멘테이션과 페이징 |장유진|[링크](https://fishy-umbra-d4b.notion.site/e63e75d8f5304df697eef896efdeb8d8?v=bbb4fa85469b4da2a41d09058fd71235)|
 |3|캐시 메모리 및 메모리 계층성 ~ 세그멘테이션과 페이징 |김대홍|[링크](https://shimmer-walk-afb.notion.site/ae81a5bafa694d38ab1310da2da4405f?v=cf4399ae956f48c586f295735567ffa0)|
 
+
+|Section|Title|Link|
+|:---|:---|:---|
+|01|Introduction to Operating Systems|[홍승준](https://fast-turtle.tistory.com/9)|
+|02|System Structure & Program Execution 1|[홍승준](https://fast-turtle.tistory.com/10)|
+|03|Process |[홍승준](https://fast-turtle.tistory.com/10)|
+|04|Process Management ||
+|05|CPU Scheduling ||
+|06|Process Synchronization 2||
+|07|Deadlocks |
+|08|Memory Management ||
+|09|Virtual Memory ||
+|10|File Systems||
+||File Systems Implementation ||
+|11|Disk Management and Scheduling ||
+
+
 ## Network (네트워크) [🔝](#about)
 |주차|주제|이름|링크|
 |------|---|-----|------|
