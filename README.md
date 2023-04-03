@@ -52,9 +52,9 @@
 
 |Section|Title|Link|
 |:---|:---|:---|
-|01|Introduction to Operating Systems|[홍승준](https://fast-turtle.tistory.com/9)|
-|02|System Structure & Program Execution 1|[홍승준](https://fast-turtle.tistory.com/10)|
-|03|Process |[홍승준](https://fast-turtle.tistory.com/10)|
+|01|Introduction to Operating Systems|[홍승준](https://fast-turtle.tistory.com/9)|[장유진](https://velog.io/@yoojinjangjang/Introudction-to-OS)|
+|02|System Structure & Program Execution 1|[홍승준](https://fast-turtle.tistory.com/10)|[장유진](https://velog.io/@yoojinjangjang/System-Structure-Program-Execution-1)|
+|03|Process |[홍승준](https://fast-turtle.tistory.com/10)|[장유진](https://velog.io/@yoojinjangjang/Process)|
 |04|Process Management ||
 |05|CPU Scheduling ||
 |06|Process Synchronization 2||
