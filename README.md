@@ -55,8 +55,8 @@
 |01|Introduction to Operating Systems|[홍승준](https://fast-turtle.tistory.com/9) [장유진](https://velog.io/@yoojinjangjang/Introudction-to-OS)  [홍진식](https://www.notion.so/1-Introduction-to-OS-8a255dd2d1e34d1190d5daaf997a26c9?pvs=4) [김대홍](https://shimmer-walk-afb.notion.site/4c6755a59c2846a3aaff718bdaea639b?v=14f48a57c48a4c77b740ef716e027810) |
 |02|System Structure & Program Execution 1|[홍승준](https://fast-turtle.tistory.com/10) [장유진](https://velog.io/@yoojinjangjang/System-Structure-Program-Execution-1) [홍진식](https://www.notion.so/2-System-Structure-529f80490b3a423d8ee514d02935e68e?pvs=4) [김대홍](https://shimmer-walk-afb.notion.site/4c6755a59c2846a3aaff718bdaea639b?v=14f48a57c48a4c77b740ef716e027810) |
 |03|Process |[홍승준](https://fast-turtle.tistory.com/10) [장유진](https://velog.io/@yoojinjangjang/Process)  [홍진식](https://www.notion.so/Process-036879e136a74c4a824258c056a4894b?pvs=4) [김대홍](https://shimmer-walk-afb.notion.site/4c6755a59c2846a3aaff718bdaea639b?v=14f48a57c48a4c77b740ef716e027810) |
-|04|Process Management ||
-|05|CPU Scheduling ||
+|04|Process Management |[김대홍](https://shimmer-walk-afb.notion.site/4c6755a59c2846a3aaff718bdaea639b?v=14f48a57c48a4c77b740ef716e027810)|
+|05|CPU Scheduling |[김대홍](https://shimmer-walk-afb.notion.site/4c6755a59c2846a3aaff718bdaea639b?v=14f48a57c48a4c77b740ef716e027810)|
 |06|Process Synchronization 2||
 |07|Deadlocks |
 |08|Memory Management ||
